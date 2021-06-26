@@ -20,7 +20,8 @@
     "contact": "Contact"
   },
   "home": {
-    "description": "Building Products that matters to Customers"
+    "title": "Innovate Beyond The Limit",
+    "description": "We build the product with innovation, reach us to take end to end support on your ideas to build next level products. ReVasta would take over the expectations towards digital future. Our team of software services are build with maximum innovation upon the markets."
   },
   "contact":{
     "formTitle": "Contact Us",
@@ -29,14 +30,21 @@
     "email": "Email",
     "mobile": "Mobile (Optional)",
     "message": "Message",
-    "send": "Send"
+    "send": "Send",
+    "formSuccess" : "Thank you for your interest. Our Team will reach out to you at the earliest.",
+    "formFailure" : "Sorry for the inconvenience. Please try after sometime."
   },
-  "about" : {
+  "message" : {
     "heading" : "Experience the Affordable Solutions",
-    "description" : "We build creative Web and Mobile applications varying from start up businesses to large corporate and non-government organizations."
-    
+    "description" : "We build creative Web and Mobile applications varying from start up businesses to large corporate and non-government organizations. Refreshing business software that your customers/teams will love.We have highly skilled engineers with excellent technical knowledge and experience in using the latest software standards. We have built a large pool of knowledge that we apply to deliver solutions that meet client's needs, expectations and budget. By putting our clients at the heart of everything we do, we are proud that we are still supporting our very first business client.",
+    "getInTouch": "Get in Touch",
+    "loveToHear":"We’d love to hear from you.",
+    "haveProject": "Have a Project You're interested in discussing with us?" ,
+    "weHelpToBuild" : "We helps you to innovate your ideas into a product."
   },
   "services":{
+    "title":"What We Do",
+    "description": "Let's digitalize Let's grow together",
     "webApp": "Web Application",
     "webAppDesc": "Design and Develop Web Apps for all Business Usecases and Effective Business Solutions and Insights",
     "mobApp": "Mobile Application",
@@ -50,6 +58,28 @@
     "consult": "Consulting Services",
     "consultDesc": "First-Class Consulting with Authentic Business Solutions with witty Engineering and Business Team",
     "training": "Technical Training",
-    "trainingDesc": "Giving Technical Training to Corporates and Students, Creating Industry Ready Candidates"
+    "trainingDesc": "Giving Technical Training to Corporates and Students, Creating Industry Ready Candidates",
+    "recruitement":"HR Recruiting",
+    "recruitementDesc" :"Excellent HR services, sourcing under direct-hire, permanent and contract placements",
+    "stacks": {
+      "description": "Extend our support for various tools",
+      "nodejs": "Node.js",
+      "python": "Python",
+      "android": "Android",
+      "dotnet": ".NET Core",
+      "angular": "Angular",
+      "react": "React",
+      "photoshop": "Photoshop",
+      "illustrator": "Illustrator",
+      "xd": "Adobe XD",
+      "js": "JavaScript",
+      "csharp": "C#",
+      "mongo": "MongoDB",
+      "mysql": "MySQL",
+      "firebase": "Firebase",
+      "rdbms": "RDBMS",
+      "flutter": "Flutter",
+      "aws": "AWS"
+    }
   }
 }

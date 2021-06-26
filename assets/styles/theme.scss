@@ -1,6 +1,11 @@
 @import "./theme/light/light_variables";
 
 @font-face {
-    font-family: Gilroy;
-    src: url(../fonts/gilroy-light.otf);
+    font-family: Muli;
+    src: url(../fonts/muli-regular.woff);
+}
+
+@font-face {
+    font-family: Gilroy-ExtraBold;
+    src: url(../fonts/gilroy-extrabold.otf);
 }
